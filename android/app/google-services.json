@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169197927151",
+    "firebase_url": "https://yourockweb-cf279.firebaseio.com",
+    "project_id": "yourockweb-cf279",
+    "storage_bucket": "yourockweb-cf279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169197927151:android:5d93a7d364bfe5c8bf391a",
+        "android_client_info": {
+          "package_name": "com.franco.YourockApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169197927151-mouhp36vfg4l0gkaf1knr9qqrj5punfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxtjGSwavC14XTvW7dgWv9DFrWWk-xejA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169197927151-mouhp36vfg4l0gkaf1knr9qqrj5punfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
